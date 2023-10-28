@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AyeshaJavaid-Developer.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning BackEnd Development.
-- 💞️ I’m looking to collaborate on WordPress, Front-End Development, UI/UX design for Web.
+- 🌱 I’m currently learning Front Development.
 - 📫 How to reach me 
 
 <!---
